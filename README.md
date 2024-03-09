@@ -20,7 +20,7 @@ I have more than 3.5 years of experience
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
 <a href="https://github.com/AliAhmad05">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&mode=weekly" />
 </a>
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
