@@ -16,9 +16,7 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
-[<img align="left" alt="Playwright | Playwright" width="36px" src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg"/>][Playwright]
-
-[![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
+[<img align="left" alt="Playwright | Playwright" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
 
 <a href="">
     <img src="" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
@@ -42,4 +40,5 @@ I have more than 3.5 years of experience
 <!--
 -->
 [Playwright]: https://playwright.dev/
+[Cypress]: https://www.cypress.io/
 
