@@ -16,7 +16,7 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg" style="border-radius: 50%;"/>][Playwright]
-[<img align="left" alt="Playwright | Playwright" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" style="border-radius: 50%;"/>][Cypress]
+[<img align="left" alt="Playwright | Playwright" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" style="border-radius:50%"/>][Cypress]
 
 <a href="">
     <img src="" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
