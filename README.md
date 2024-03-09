@@ -10,15 +10,12 @@ I have more than 3.5 years of experience
 
 ### Connect with me:
 
-[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>][linkedin]
+[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>][Linkedin]
 
 <br />
 
 # Languages and Tools:
-<a href="https://playwright.dev/">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
-</a>
-
+[<img align="left" alt="Playwright | LinkedIn" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
 
 <a href="">
@@ -38,4 +35,9 @@ I have more than 3.5 years of experience
 </a>
 </details>
 
-[linkedin]: https://www.linkedin.com/in/aliahmad5/
+[Linkedin]: https://www.linkedin.com/in/aliahmad5/
+
+<!--
+-->
+[Playwright]: https://playwright.dev/
+
