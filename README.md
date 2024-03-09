@@ -21,8 +21,10 @@ I have more than 3.5 years of experience
 
 <br />
 
+# Stats:
+
 <details>
-  <summary>☰ Stats <em>(click to expand)</em></summary>
+  <summary>☰<em>(click to expand)</em></summary>
   
   # Stats:
 <a style="display: block; text-align: center;">
