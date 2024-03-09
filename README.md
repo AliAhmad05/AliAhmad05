@@ -33,8 +33,12 @@ I have more than 3.5 years of experience
 
 <details>
   <summary>☰<em>(click to expand)</em></summary>
-  [<img align="left" alt="ProfileStats | AliAhmad" width="160px" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula"/>][Readme]
-  [<img align="left" alt="LanguageStats | AliAhmad" width="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2"/>][Readme]
+<a style="display: block; text-align: center;">
+  <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
+</a>
+<a style="display: block; text-align: center;">
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
+</a>
 </details>
 
 [Linkedin]: https://www.linkedin.com/in/aliahmad5/
@@ -50,9 +54,4 @@ I have more than 3.5 years of experience
 [Cucumber]: https://cucumber.io/
 [Docker]: https://www.docker.com/
 [CircleCI]: https://circleci.com/
-
-<!--
--->
-
-[Readme]: https://github.com/AliAhmad05
 
