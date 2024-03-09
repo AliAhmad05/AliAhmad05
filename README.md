@@ -8,13 +8,10 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to learn about new technologies.
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad05&layout=compact)](https://github.com/AliAhmad05)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALiAhmad05&show_icons=true&theme=dracula)
+### Stats:
 
 <a href="https://github.com/AliAhmad05">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/AliAhmad05">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320" />
