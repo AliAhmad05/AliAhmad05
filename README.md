@@ -15,7 +15,9 @@ I have more than 3.5 years of experience
 <br />
 
 # Languages and Tools:
-[<img align="left" alt="Playwright | LinkedIn" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
+[<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
+[<img align="left" alt="Playwright | Playwright" width="36px" src="https://skillicons.dev/icons?i=cypress"/>][Playwright]
+
 [![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
 
 <a href="">
