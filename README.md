@@ -2,6 +2,7 @@
 
 # I am a QA Automation Engineer
 I have more than 3.5 years of experience
+(https://gifyu.com/image/Zy2f)
 
 - 🌱 I’m currently learning mobile automation
 - 💬 Ask me about anything related to Automation
@@ -11,8 +12,12 @@ I have more than 3.5 years of experience
 # Languages and Tools:
 
 
-# Stats:
-
+<details>
+  <summary>Click to expand</summary>
+  
+  # Stats:
+  
+  
 <a href="https://github.com/AliAhmad05">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
@@ -22,6 +27,8 @@ I have more than 3.5 years of experience
 <a href="https://github.com/AliAhmad05">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
 </a>
+  
+</details>
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
