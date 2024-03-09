@@ -21,6 +21,8 @@ I have more than 3.5 years of experience
 [<img align="left" alt="WebdriverIO | WebdriverIO" width="36px" src="https://avatars.githubusercontent.com/u/6512473?s=48&v=4"/>][WebdriverIO]
 [<img align="left" alt="Selenium | Selenium" width="36px" src="https://avatars.githubusercontent.com/u/983927?s=48&v=4"/>][Selenium]
 [<img align="left" alt="Postman | Postman" width="36px" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"/>][Postman]
+[<img align="left" alt="Swagger | Swagger" width="36px" src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4"/>][Swagger]
+[<img align="left" alt="Cucumber | Cucumber" width="36px" src="https://avatars.githubusercontent.com/u/320565?s=48&v=4"/>][Cucumber]
 
 <br />
 
@@ -48,4 +50,6 @@ I have more than 3.5 years of experience
 [WebdriverIO]: https://webdriver.io/
 [Selenium]: https://www.selenium.dev/
 [Postman]: https://www.postman.com/
+[Swagger]: https://swagger.io/
+[Cucumber]: https://cucumber.io/
 
