@@ -26,10 +26,8 @@ I have more than 3.5 years of experience
 
 <br>
 <p>
-ali ahmad
+      
 </p>
-
-# ali
 
 <a>
   <img height=200 align="centre" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
