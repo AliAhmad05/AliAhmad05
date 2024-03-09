@@ -2,7 +2,7 @@
 
 # I am a QA Automation Engineer
 I have more than 3.5 years of experience
-(https://gifyu.com/image/Zy2f)
+[(https://gifyu.com/image/Zy2f)]
 
 - 🌱 I’m currently learning mobile automation
 - 💬 Ask me about anything related to Automation
