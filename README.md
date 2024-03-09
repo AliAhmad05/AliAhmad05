@@ -9,11 +9,18 @@ I have more than 3.5 years of experience
 - ⚡ Fun fact: I like to learn about new technologies.
 
 # Languages and Tools:
+<style>
+    .playwright-logo {
+        width: 100px; /* Adjust the width as needed */
+        height: auto; /* Maintain aspect ratio */
+    }
+</style>
 <p align="center">
-  <a href="https://github.com/AliAhmad05">
-    <img src="https://playwright.dev/img/playwright-logo.svg">
-    <img src="https://skillicons.dev/icons?i=cypress,postman,vscode,azure,git,githubactions,github,jenkins,,docker," />
-  </a>
+
+<a href="https://github.com/AliAhmad05">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" class="playwright-logo">
+    <img src="https://skillicons.dev/icons?i=cypress,postman,vscode,azure,git,githubactions,github,jenkins,docker" alt="Skill Icons">
+</a>
 </p>
 
 # Stats:
