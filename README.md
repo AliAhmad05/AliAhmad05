@@ -8,6 +8,10 @@ I have more than 3.5 years of experience
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to learn about new technologies.
 
+### Connect with me:
+
+[<img align="left" alt="ihtishamArif | LinkedIn" width="36px" src="https://img.icons8.com/plasticine/400/000000/linkedin.png"/>][linkedin]
+
 # Languages and Tools:
 <a href="https://playwright.dev/">
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
@@ -18,9 +22,6 @@ I have more than 3.5 years of experience
 <a href="">
     <img src="" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
 </a>
-
-
-
 
 <details>
   <summary>☰ Stats <em>(click to expand)</em></summary>
@@ -37,19 +38,4 @@ I have more than 3.5 years of experience
   
 </details>
 
-<!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a style="display: block; text-align: center;">
-  <img height=200 align ="left" style="margin: auto; width: 49%; border: 3px solid green; padding: 10px;" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
-</a>
--->
+[linkedin]: https://www.linkedin.com/in/aliahmad5/
