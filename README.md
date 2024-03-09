@@ -25,11 +25,9 @@ I have more than 3.5 years of experience
 <a>
   <img height=172 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
+<br><!-- -->
 <a>
-        
-</a>
-<a>
-  <img height=200 align="centre" style="margin-top: 1000px;" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
+  <img height=200 align="centre" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
 </a>
   
 </details>
