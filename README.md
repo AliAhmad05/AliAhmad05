@@ -27,7 +27,7 @@ I have more than 3.5 years of experience
 <br>
 
 <a style="display: block; text-align: center;">
-  <img height=200 style="margin: auto; width: 49%; border: 3px solid green; padding: 10px;" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
+  <img height=200 align ="center" style="margin: auto; width: 49%; border: 3px solid green; padding: 10px;" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
 </a>
 
   
