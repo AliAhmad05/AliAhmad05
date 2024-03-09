@@ -9,9 +9,16 @@
 - ⚡ Fun fact: I like to learn about new technologies.
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad05&layout=donut-vertical)](https://github.com/AliAhmad05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad05&layout=compact)](https://github.com/AliAhmad05)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALiAhmad05&show_icons=true&theme=dracula)
+
+<a href="https://github.com/AliAhmad05">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05" />
+</a>
+<a href="https://github.com/AliAhmad05">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
