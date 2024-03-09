@@ -14,7 +14,7 @@ I have more than 3.5 years of experience
 </a>
 
 <a href="https://www.cypress.io/">
-    <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
+    <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
 </a>
 
 <a href="">
