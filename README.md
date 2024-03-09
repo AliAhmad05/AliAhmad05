@@ -10,16 +10,8 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 
-<style>
-  .icon {
-    width: 32px;
-    height: 32px;
-    border: 1px solid black;
-    border-radius: 50%; /* Optional: For rounded corners */
-  }
-</style>
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 32px; height: 32px; border: 1px solid black; border-radius: 50%;">
 
-<img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" class="icon">
 
 
 
