@@ -13,9 +13,7 @@ I have more than 3.5 years of experience
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
 </a>
 
-<a href="https://www.cypress.io/">
-    <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
 
 <a href="">
     <img src="" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
