@@ -1,11 +1,15 @@
 ### Hi there 👋 I'm Ali Ahmad.
 
 ### I am a QA Automation Engineer
+## I have more than 3.5 years of experience
 
 - 🌱 I’m currently learning mobile automation
 - 💬 Ask me about anything related to Automation
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- - ⚡ Fun fact: I like to learn about new technologies.
+- ⚡ Fun fact: I like to learn about new technologies.
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad05&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
