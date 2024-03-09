@@ -23,6 +23,7 @@ I have more than 3.5 years of experience
 [<img align="left" alt="Postman | Postman" width="36px" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"/>][Postman]
 [<img align="left" alt="Swagger | Swagger" width="36px" src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4"/>][Swagger]
 [<img align="left" alt="Cucumber | Cucumber" width="36px" src="https://avatars.githubusercontent.com/u/320565?s=48&v=4"/>][Cucumber]
+[<img align="left" alt="Docker | Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"/>][Docker]
 
 <br />
 
@@ -52,4 +53,5 @@ I have more than 3.5 years of experience
 [Postman]: https://www.postman.com/
 [Swagger]: https://swagger.io/
 [Cucumber]: https://cucumber.io/
+[Docker]: https://www.docker.com/
 
