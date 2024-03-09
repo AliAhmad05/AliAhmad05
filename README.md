@@ -14,7 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/AliAhmad05">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36" />
 </a>
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
