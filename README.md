@@ -10,7 +10,7 @@ I have more than 3.5 years of experience
 
 ### Connect with me:
 
-[<img align="left" alt="ihtishamArif | LinkedIn" width="36px" src="https://img.icons8.com/plasticine/400/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>][linkedin]
 
 <br />
 
