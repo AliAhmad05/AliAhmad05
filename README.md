@@ -18,10 +18,10 @@ I have more than 3.5 years of experience
   # Stats:
   
   
-<a align="centre" height = 180>
+<a align="centre" height = 175>
   <img src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
-<a align="centre" height = 180>
+<a align="centre" height = 175>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
 <a align="centre" height=200>
