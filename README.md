@@ -19,7 +19,7 @@ I have more than 3.5 years of experience
   
   
 <a>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
 
 <a>
