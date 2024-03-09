@@ -13,9 +13,9 @@ I have more than 3.5 years of experience
 
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>☰ <em>Stats</em> (click to expand)</summary>
   
-  # Stats:
+  # ☰ Stats:
   
   
 <a href="https://github.com/AliAhmad05">
