@@ -10,7 +10,7 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 <a href="https://playwright.dev/">
-    <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
 </a>
 
 <a href="https://www.cypress.io/">
