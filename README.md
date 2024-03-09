@@ -16,7 +16,7 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 
-[<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
+[<img align="left" alt="Playwright | Playwright" width="39px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
 [<img align="left" alt="WebdriverIO | WebdriverIO" width="36px" src="https://avatars.githubusercontent.com/u/6512473?s=48&v=4"/>][WebdriverIO]
 [<img align="left" alt="Selenium | Selenium" width="36px" src="https://avatars.githubusercontent.com/u/983927?s=48&v=4"/>][Selenium]
