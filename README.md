@@ -10,13 +10,13 @@ I have more than 3.5 years of experience
 
 ### Connect with me:
 
-[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" style="border-radius: 50%;"/>][Linkedin]
+[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>][Linkedin]
 
 <br />
 
 # Languages and Tools:
-[<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg" style="border-radius: 50%;"/>][Playwright]
-[<img align="left" alt="Playwright | Playwright" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
+[<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
+[<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
 
 <svg width="36" height="36" xmlns="http://www.w3.org/2000/svg">
   <circle cx="18" cy="18" r="18" fill="none" stroke="#000000"/>
