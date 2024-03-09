@@ -11,7 +11,7 @@ I have more than 3.5 years of experience
 # Languages and Tools:
 <style>
     .playwright-logo {
-        width: 100px; /* Adjust the width as needed */
+        width: 5px; /* Adjust the width as needed */
         height: auto; /* Maintain aspect ratio */
     }
 </style>
