@@ -9,7 +9,7 @@ I have more than 3.5 years of experience
 - ⚡ Fun fact: I like to learn about new technologies.
 
 # Languages and Tools:
-[![My Skills](https://avatars.githubusercontent.com/u/8908513?s=48&v=4)]
+
 
 # Stats:
 
@@ -18,6 +18,9 @@ I have more than 3.5 years of experience
 </a>
 <a href="https://github.com/AliAhmad05">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
+</a>
+<a href="https://github.com/AliAhmad05">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark" />
 </a>
 
 <!-- **AliAhmad05/AliAhmad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
