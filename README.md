@@ -10,7 +10,7 @@ I have more than 3.5 years of experience
 
 # Languages and Tools:
 
-<img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 32px; height: 32px; border: 1px solid black; border-radius: 50%;">
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="Icon" style="width: 36px; height: 36px; border: 1px solid black; border-radius: 50%;">
 
 
 
