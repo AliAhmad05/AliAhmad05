@@ -18,14 +18,16 @@ I have more than 3.5 years of experience
   # Stats:
   
   
-<a align="centre" height = 170>
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
+<a>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
-<a align="centre" height = 170>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
+
+<a>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
-<a align="centre" height=200>
-  <img src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
+
+<a>
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AliAhmad05&theme=dark&background=282a36&fire=ff6e96&ring=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&excludeDaysLabel=f8f8f2" />
 </a>
   
 </details>
