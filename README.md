@@ -8,6 +8,14 @@ I have more than 3.5 years of experience
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to learn about new technologies.
 
+# Languages and Tools:
+<p align="center">
+  <a href="https://github.com/AliAhmad05">
+    <img src="https://playwright.dev/img/playwright-logo.svg">
+    <img src="https://skillicons.dev/icons?i=cypress,postman,vscode,azure,git,githubactions,github,jenkins,,docker," />
+  </a>
+</p>
+
 # Stats:
 
 <a href="https://github.com/AliAhmad05">
