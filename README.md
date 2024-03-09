@@ -33,11 +33,11 @@ I have more than 3.5 years of experience
   
   # Stats:
 <a style="display: block; text-align: center;">
-  <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
+  <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
 
 <a style="display: block; text-align: center;">
-  <img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
 </details>
 
