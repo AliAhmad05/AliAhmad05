@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ali Ahmad.
 
-# I am a QA Automation Engineer
+## I am a QA Automation Engineer
 I have more than 3.5 years of experience
 
 - 🌱 I’m currently learning mobile automation
@@ -8,13 +8,12 @@ I have more than 3.5 years of experience
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to learn about new technologies.
 
-# Connect with me:
-
-[<img align="left" alt="AliAhmad | LinkedIn" width="36px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>][Linkedin]
+# 🌐 Connect With Me :
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
 
 <br />
 
-# Languages and Tools:
+# Languages and Tools :
 
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
@@ -29,10 +28,11 @@ I have more than 3.5 years of experience
 
 <br />
 
-# Stats:
+# Stats :
 
 <details>
   <summary>☰<em>(click to expand)</em></summary>
+  <br />
 <a style="display: block; text-align: center;">
   <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=AliAhmad05&show_icons=true&theme=dracula" />
 </a>
