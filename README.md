@@ -10,6 +10,7 @@ I have more than 3.5 years of experience
 
 # 🌐 Connect With Me :
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
+   [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
 
 <br />
 
@@ -24,7 +25,6 @@ I have more than 3.5 years of experience
 [<img align="left" alt="Cucumber | Cucumber" width="36px" src="https://avatars.githubusercontent.com/u/320565?s=48&v=4"/>][Cucumber]
 [<img align="left" alt="Docker | Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"/>][Docker]
 [<img align="left" alt="CircleCI | CircleCI" width="36px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4"/>][CircleCI]
-
 
 <br />
 
@@ -42,6 +42,7 @@ I have more than 3.5 years of experience
 </details>
 
 [Linkedin]: https://www.linkedin.com/in/aliahmad5/
+[Gmail]: mailto:aliaurangzaib05@gmail.com
 
 <!--
 -->
