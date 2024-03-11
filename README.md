@@ -5,8 +5,10 @@ I have more than 3.5 years of experience
 
 - 🌱 I’m currently learning mobile automation
 - 💬 Ask me about anything related to Automation
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like to learn about new technologies.
+- 🥅 **2024 Goals:** Contribute more to Open Source projects
+- ⚡ **Fun fact:** I like to learn about new technologies.
+- 📧 **Email me:** [aliaurangzaib05@gmail.com](mailto:aliaurangzaib05@gmail.com)
+
 
 # 🌐 Connect With Me :
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
@@ -14,7 +16,7 @@ I have more than 3.5 years of experience
 
 <br />
 
-# Languages and Tools :
+# ⚒️ Languages and Tools :
 
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
@@ -27,8 +29,10 @@ I have more than 3.5 years of experience
 [<img align="left" alt="CircleCI | CircleCI" width="36px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4"/>][CircleCI]
 
 <br />
+<br />
+<br />
 
-# Stats :
+# 📝 Stats :
 
 <details>
   <summary>☰<em>(click to expand)</em></summary>
