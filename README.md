@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Ali Ahmad.
+# Hi there 👋 I'm Ali Ahmad. 
+
+![](https://komarev.com/ghpvc/?username=aliaurangzaib05&color=yellow)
 
 ## I am a QA Automation Engineer
 I have more than 3.5 years of experience
@@ -7,7 +9,7 @@ I have more than 3.5 years of experience
 - 💬 Ask me about anything related to Automation
 - 🥅 **2024 Goals:** Contribute more to Open Source projects
 - ⚡ **Fun fact:** I like to learn about new technologies.
-- 📧 **Email me:** [aliaurangzaib05@gmail.com](mailto:aliaurangzaib05@gmail.com)
+- 📧 **Email me:** [aliaurangzaib05@gmail.com][Gmail]
 
 
 # 🌐 Connect With Me :
