@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ali Ahmad. 
 
-![](https://komarev.com/ghpvc/?username=aliaurangzaib05&color=yellow)
+![](https://komarev.com/ghpvc/?username=aliaurangzaib05&color=yellow&style=for-the-badge&abbreviated=true)
 
 ## I am a QA Automation Engineer
 I have more than 3.5 years of experience
