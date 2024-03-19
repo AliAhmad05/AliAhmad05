@@ -16,8 +16,6 @@ I have more than 3.5 years of experience
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
    [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
 
-<br />
-
 # ⚒️ Tools :
 
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
@@ -40,6 +38,7 @@ I have more than 3.5 years of experience
 [<img align="left" alt="Python | Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/>][Python]
 [<img align="left" alt="C++ | C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"/>][C++]
 
+<br />
 <br />
 <br />
 
