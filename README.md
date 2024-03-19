@@ -36,11 +36,12 @@ I have more than 3.5 years of experience
 
 [<img align="left" alt="Typescript | Typescript" width="36px" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png"/>][TypeScript]
 [<img align="left" alt="Javascript | Javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>][Javascript]
+[<img align="left" alt="Python | Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/>][Python]
 
 <br />
 <br />
 <br />
-
+<!--
 # 📝 Stats :
 
 <details>
@@ -53,6 +54,7 @@ I have more than 3.5 years of experience
   <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmad05&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
 </a>
 </details>
+-->
 
 [Linkedin]: https://www.linkedin.com/in/aliahmad5/
 [Gmail]: mailto:aliaurangzaib05@gmail.com
@@ -74,3 +76,5 @@ I have more than 3.5 years of experience
 -->
 
 [Typescript]: https://www.typescriptlang.org/
+[Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Python]: https://www.python.org/
