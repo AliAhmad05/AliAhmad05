@@ -41,8 +41,7 @@ I have more than 3.5 years of experience
 
 <br />
 <br />
-<!--
--->
+
 # 📝 Stats :
 
 <details>
