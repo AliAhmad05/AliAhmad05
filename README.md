@@ -18,7 +18,7 @@ I have more than 3.5 years of experience
 
 <br />
 
-# ⚒️ Languages and Tools :
+# ⚒️ Tools :
 
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
@@ -29,6 +29,9 @@ I have more than 3.5 years of experience
 [<img align="left" alt="Cucumber | Cucumber" width="36px" src="https://avatars.githubusercontent.com/u/320565?s=48&v=4"/>][Cucumber]
 [<img align="left" alt="Docker | Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"/>][Docker]
 [<img align="left" alt="CircleCI | CircleCI" width="36px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4"/>][CircleCI]
+
+# Languages :
+[<img align="left" alt="Typescript | Typescript" width="36px" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png"/>][TypeScript]
 
 <br />
 <br />
@@ -62,3 +65,8 @@ I have more than 3.5 years of experience
 [Docker]: https://www.docker.com/
 [CircleCI]: https://circleci.com/
 
+
+<!--
+-->
+
+[Typescript]: https://www.typescriptlang.org/
