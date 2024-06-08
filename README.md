@@ -9,7 +9,7 @@ I have around 5 years of experience
 - 💬 Ask me about anything related to Automation
 - 🥅 **2024 Goals:** Contribute more to Open Source projects
 - ⚡ **Fun fact:** I like to learn about new technologies.
-- 📧 **Email me:** [aliaurangzaib05@gmail.com][Gmail]
+- 📧 **Email me:** [qa.aliahmad05@gmail.com][Gmail]
 
 
 # 🌐 Connect With Me :
