@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=aliaurangzaib05&color=yellow&style=for-the-badge&abbreviated=true)
 
 ## I am a QA Automation Engineer
-I have around 5 years of experience
+I have more than 5 years of experience
 
 - 🌱 I’m currently learning mobile automation
 - 💬 Ask me about anything related to Automation
