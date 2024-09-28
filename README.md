@@ -56,7 +56,7 @@ I have more than 5 years of experience
 </details>
 
 [Linkedin]: https://www.linkedin.com/in/aliahmad5/
-[Gmail]: mailto:aliaurangzaib05@gmail.com
+[Gmail]: mailto:qa.aliahmad05@gmail.com
 
 <!--
 -->
