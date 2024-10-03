@@ -5,18 +5,18 @@
 ## I am a QA Automation Engineer
 I have more than 5 years of experience
 
-- 🌱 I’m currently learning mobile automation
-- 💬 Ask me about anything related to Automation
+- 🌱 I’m currently learning Robot Process Automation
+- 💬 Ask me about anything related to Testing
 - 🥅 **2024 Goals:** Contribute more to Open Source projects
 - ⚡ **Fun fact:** I like to learn about new technologies.
 - 📧 **Email me:** [qa.aliahmad05@gmail.com][Gmail]
 
 
-# 🌐 Connect With Me :
+# Connect With Me  ⬇️
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
    [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
 
-# ⚒️ Tools :
+# Tools ⚒️
 
 [<img align="left" alt="Playwright | Playwright" width="36px" src="https://playwright.dev/img/playwright-logo.svg"/>][Playwright]
 [<img align="left" alt="Cypress | Cypress" width="36px" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4"/>][Cypress]
@@ -31,7 +31,7 @@ I have more than 5 years of experience
 <br />
 <br />
 
-# 🔠 Languages :
+# Languages 🔠
 
 [<img align="left" alt="Typescript | Typescript" width="36px" src="https://cdn.fosstodon.org/accounts/avatars/110/470/955/844/953/946/original/48448b5649f31299.png"/>][TypeScript]
 [<img align="left" alt="Javascript | Javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>][Javascript]
@@ -42,7 +42,7 @@ I have more than 5 years of experience
 <br />
 <br />
 
-# 📝 Stats :
+# Stats 📝git add
 
 <details>
   <summary>☰<em>(click to expand)</em></summary>
