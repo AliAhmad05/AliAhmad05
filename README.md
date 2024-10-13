@@ -42,7 +42,7 @@ I have more than 5 years of experience
 <br />
 <br />
 
-# Stats 📝git add
+# Stats 📝
 
 <details>
   <summary>☰<em>(click to expand)</em></summary>
